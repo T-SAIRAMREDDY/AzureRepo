@@ -15,7 +15,7 @@ namespace SampleDemoAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Sai Application. version 2 change";
+            ViewBag.Message = "Sai Application. version 2 change,version 3";
 
             return View();
         }
